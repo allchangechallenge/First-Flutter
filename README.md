@@ -1,2 +1,2 @@
-# Looking-Good-Web
-Learning to design beautiful website.
+# First Flutter App
+Aims at developing the app we ought to use in the competition.
